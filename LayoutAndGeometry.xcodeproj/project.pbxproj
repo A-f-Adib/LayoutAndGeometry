@@ -12,6 +12,7 @@
 		74EE7AC22CAC86BD006DBE4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74EE7AC12CAC86BD006DBE4F /* Assets.xcassets */; };
 		74EE7AC52CAC86BD006DBE4F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74EE7AC42CAC86BD006DBE4F /* Preview Assets.xcassets */; };
 		74EE7ACC2CAC8973006DBE4F /* AlignmentGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EE7ACB2CAC8973006DBE4F /* AlignmentGuide.swift */; };
+		74EE7ACE2CAC8F42006DBE4F /* CustomAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74EE7ACD2CAC8F42006DBE4F /* CustomAlignment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		74EE7AC12CAC86BD006DBE4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74EE7AC42CAC86BD006DBE4F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		74EE7ACB2CAC8973006DBE4F /* AlignmentGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignmentGuide.swift; sourceTree = "<group>"; };
+		74EE7ACD2CAC8F42006DBE4F /* CustomAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlignment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				74EE7ABD2CAC86B4006DBE4F /* LayoutAndGeometryApp.swift */,
 				74EE7ABF2CAC86B4006DBE4F /* ContentView.swift */,
 				74EE7ACB2CAC8973006DBE4F /* AlignmentGuide.swift */,
+				74EE7ACD2CAC8F42006DBE4F /* CustomAlignment.swift */,
 				74EE7AC12CAC86BD006DBE4F /* Assets.xcassets */,
 				74EE7AC32CAC86BD006DBE4F /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				74EE7ACC2CAC8973006DBE4F /* AlignmentGuide.swift in Sources */,
 				74EE7AC02CAC86B4006DBE4F /* ContentView.swift in Sources */,
+				74EE7ACE2CAC8F42006DBE4F /* CustomAlignment.swift in Sources */,
 				74EE7ABE2CAC86B4006DBE4F /* LayoutAndGeometryApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
